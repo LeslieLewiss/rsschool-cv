@@ -1,2 +1,3 @@
 # rsschool-cv
-https://github.com/LeslieLewiss/rsschool-cv/blob/gh-pages/cv.md
+https://leslielewiss.github.io/rsschool-cv/cv
+
