@@ -1,11 +1,11 @@
 # Ivan Ivanov
-====
+********* 
 ## Junior Frontend Developer
 ********* 
 ## Contact information:
-Phone: +77 033 7899766
-E-mail: tw965186@gmail.com
-Telegram: @tw965186
++ Phone: +77 033 7899766
++ E-mail: tw965186@gmail.com
++ Telegram: @tw965186
 ********* 
 ## Briefly About Myself:
 Having started my career as a layout designer in a local newspaper with minimum skills, I became profficient in printing design.
@@ -48,7 +48,7 @@ function peak(arr) {
 ## Courses:
 * HTML and CSS Tutorials on the [https://www.w3schools.com](completed)
 ![avatar](https://www.downloadclipart.net/large/presentation-png-pic.png)
-* JavaScript Manual on [https://learn.javascript.ru](in progress)
+* JavaScript Manual on [https://learn.javascript.ru] (in progress)
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 ********* 
 ## Languages:
